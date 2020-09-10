@@ -1,6 +1,6 @@
-<h1>Burgers!</h1>
+<h1>Jordan's Burger Shop!</h1>
 
-<h2>Burgers that are not devoured!</h2>
+<h2>Burgers that are ready to eat!</h2>
 
 <ul>
   {{#each burgers}}
@@ -10,7 +10,7 @@
   {{/each}}
 </ul>
 
-<h2>Burgers that are devoured!</h2>
+<h2>Burgers that have been devoured!</h2>
 
 <ul>
   {{#each burgers}}
@@ -26,12 +26,6 @@
   <div class="form-group">
     <label for="ca">Burger Name:</label>
     <input type="text" id="ca" name="burger_name">
-  </div>
-
-  <div class="form-group">
-    <label for="devoured">Devoured?</label><br>
-    <input type="radio" name="devoured" value="1" checked> devoured!<br>
-    <input type="radio" name="devoured" value="0"> uneaten
   </div>
 
   <button type="submit">Add Burger</button>

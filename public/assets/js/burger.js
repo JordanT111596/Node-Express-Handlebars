@@ -27,7 +27,7 @@ $(function() {
 
     var newBurger = {
       burger_name: $("#ca").val().trim(),
-      devoured: $("[burger_name=devoured]:checked").val().trim()
+      devoured: false
     };
 
     // Send the POST request.
