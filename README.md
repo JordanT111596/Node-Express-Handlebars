@@ -8,6 +8,6 @@ This assignment has us create an application that can be used to organize your b
 
 As specified in the assignment, a user can add new burgers through a textbox and button. They can also devour uneaten burgers or they can delete burgers from the list. Now go enjoy those burgers!
 
-This site can be found at https://github.com/JordanT111596/Node-Express-Handlebars
+This site can be found at https://warm-bayou-69464.herokuapp.com/
 
 ![Image of Eat-Da-Burger](public/assets/img/Eat-Da-Burger-Demo.gif?raw=true "Eat-Da-Burger")
