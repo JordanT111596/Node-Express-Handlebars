@@ -1,7 +1,6 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
 }
 
 .label {
@@ -16,4 +15,12 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body {
+  background-image: url(./../img/burgie.png);
+  height: 1100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
